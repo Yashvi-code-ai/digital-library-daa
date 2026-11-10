@@ -1,0 +1,11 @@
+id,title,author,category,description,keywords,year,rating,citations
+1,Introduction to Algorithms,Thomas Cormen,Algorithms,Algorithm design and graph analysis,algorithms|sorting|graphs,2022,4.9,2|3
+2,Clean Code,Robert Martin,Software Engineering,Maintainable software design,software|engineering|testing,2008,4.7,1
+3,The C++ Programming Language,Bjarne Stroustrup,Programming,Modern C++ language,cpp|programming,2013,4.8,1
+4,Database System Concepts,Abraham Silberschatz,Databases,Database foundations,database|sql,2019,4.6,1|2
+5,Artificial Intelligence A Modern Approach,Stuart Russell,AI,Search and intelligent agents,ai|search|planning,2021,4.8,1
+6,Operating System Concepts,Abraham Silberschatz,Systems,Processes and memory,os|processes|memory,2018,4.5,3|4
+7,Computer Networks,Andrew Tanenbaum,Networks,Protocols and routing,networks|protocols|routing,2011,4.4,4
+8,Design Patterns,Erich Gamma,Software Engineering,Object oriented patterns,software|patterns|oop,1994,4.5,2
+9,Discrete Mathematics,Kenneth Rosen,Mathematics,Logic and graph theory,math|logic|graphs,2018,4.3,1
+10,Data Structures in C++,Mark Weiss,Algorithms,Trees and hash tables,algorithms|trees|hashing|cpp,2014,4.4,1|3
